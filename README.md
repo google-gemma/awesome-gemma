@@ -40,8 +40,8 @@
 - [Get Started with Gemma](https://ai.google.dev/gemma/docs/get_started) — Get started running inference with the multimodal Gemma 4 models.
 - [Gemma Cookbook](https://github.com/google-gemma/cookbook) — Maintained notebooks, examples, workshops, and end-to-end applications.
 - [Gemma Skills](https://github.com/google-gemma/gemma-skills) — Reusable Agent Skills for selecting, running, and training Gemma models.
-- [Gemma 4 on Kaggle](https://www.kaggle.com/models/google/gemma-4) — Official Kaggle model collection and downloadable artifacts.
 - [Gemma Events](https://luma.com/gemma-events) — Overview of upcoming Gemma events.
+- [Gemma on X](https://x.com/googlegemma) — For news, announcements, and updates about Gemma.
 
 ## Models
 
@@ -49,35 +49,36 @@
 
 - [Gemma 4 Overview](https://ai.google.dev/gemma/docs/core) — An overview of the capabilities, architecture, and more of Gemma 4 models.
 - [Gemma 4 Model Card](https://ai.google.dev/gemma/docs/core/model_card_4) — Architecture, training, evaluation, safety, and usage details.
+- [Gemma 4 (Hugging Face)](https://huggingface.co/collections/google/gemma-4) — Gemma 4 checkpoints (+ assistant models) on Hugging Face.
 - [Gemma 4 QAT](https://huggingface.co/collections/google/gemma-4-qat-q4-0) — Quantization-aware checkpoints for local and server inference.
 - [Gemma 4 Mobile QAT](https://huggingface.co/collections/google/gemma-4-qat-mobile) — Mobile-optimized checkpoints for the E2B and E4B models.
 - [Previous Gemma Model Cards](https://deepmind.google/models/model-cards/) — Model cards for Gemma 1–3 and earlier Gemma families.
 
 ### Variants
 
-- [DiffusionGemma](https://ai.google.dev/gemma/docs/diffusiongemma/model_card) — Experimental discrete-diffusion text generation based on Gemma 4.
-- [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma/model_card) — Compact embedding model designed for retrieval and on-device use.
-- [FunctionGemma](https://ai.google.dev/gemma/docs/functiongemma/model_card) — Foundation for building specialized function-calling models.
-- [MedGemma](https://deepmind.google/models/gemma/medgemma/) — Models optimized for medical text and image comprehension.
+- [DiffusionGemma](https://huggingface.co/collections/google/diffusiongemma) — Experimental discrete-diffusion text generation based on Gemma 4.
+- [EmbeddingGemma](https://huggingface.co/collections/google/embeddinggemma) — Compact embedding model designed for retrieval and on-device use.
+- [FunctionGemma](https://huggingface.co/collections/google/functiongemma) — Foundation for building specialized function-calling models.
+- [MedGemma](https://huggingface.co/collections/google/medgemma-release) — Models optimized for medical text and image comprehension.
 - [PaliGemma 2](https://huggingface.co/collections/google/paligemma-2-release) — Vision-language models for detailed image understanding tasks.
-- [ShieldGemma 2](https://ai.google.dev/gemma/docs/shieldgemma/model_card_2) — Image-safety classifier built on Gemma 3.
+- [ShieldGemma 2](https://huggingface.co/collections/google/shieldgemma) — Image-safety classifier built on Gemma 3.
 - [T5Gemma 2](https://huggingface.co/collections/google/t5gemma-2) — Encoder-decoder models for contextual understanding and generation.
-- [DolphinGemma](https://deepmind.google/models/gemma/dolphingemma/) — Uses dolphin audio to help scientists study how dolphins communicate.
 - [TranslateGemma](https://huggingface.co/collections/google/translategemma) — Translation models covering 55 languages.
 - [TxGemma](https://huggingface.co/collections/google/txgemma-release) — Models for therapeutic-development research.
-- [VaultGemma](https://deepmind.google/models/gemma/vaultgemma/) — Language model trained with differential privacy.
+- [VaultGemma](https://huggingface.co/google/vaultgemma-1b) — Language model trained with differential privacy.
 - [DataGemma](https://huggingface.co/collections/google/datagemma-release) — Models and recipes for grounding responses with Data Commons.
 - [RecurrentGemma](https://huggingface.co/collections/google/recurrentgemma-release) — Open models based on the recurrent Griffin architecture.
-- [Gemma Scope 2](https://ai.google.dev/gemma/docs/gemma_scope) — Open sparse autoencoders and interpretability tooling for studying Gemma 3.
-- [Gemma-APS](https://deepmind.google/models/gemma/gemma-aps/) — Abstractive proposition segmentation for decomposing text into meaningful claims.
+- [Gemma Scope 2](https://huggingface.co/collections/google/gemma-scope-2) — Open sparse autoencoders and interpretability tooling for studying Gemma 3.
+- [Gemma-APS](https://huggingface.co/collections/google/gemma-aps-release) — Abstractive proposition segmentation for decomposing text into meaningful claims.
 - [Cell2Sentence-Scale](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) — A Gemma 2 27B model fine-tuned for single-cell biology.
+- [DolphinGemma](https://deepmind.google/models/gemma/dolphingemma/) — Uses dolphin audio to help scientists study how dolphins communicate.
 
 ## Inference
 
 ### Local
 
 - [HF Transformers](https://huggingface.co/docs/transformers/model_doc/gemma4) — Python library for loading, running, and fine-tuning Hugging Face models.
-- [llama.cpp](https://huggingface.co/ggml-org/gemma-4-26B-A4B-it-GGUF) — LLM inference in C/C++ with GGUF quantization.
+- [llama.cpp](https://huggingface.co/collections/ggml-org/gemma-4) — LLM inference in C/C++ with GGUF quantization.
 - [Unsloth](https://unsloth.ai/docs/models/gemma-4) — Local UI to run and train LLMs and diffusion models.
 - [Ollama](https://ollama.com/library/gemma4) — Get up and running with large language models locally.
 - [LM Studio](https://lmstudio.ai/models/gemma-4) — Desktop application to discover, download, and run local models.
@@ -87,23 +88,31 @@
 - [LiteRT](https://developers.google.com/edge/litert-lm/models/gemma-4) — Google's runtime for on-device ML deployment.
 - [JAX](https://github.com/google-deepmind/gemma) — Official Gemma reference implementation in JAX and Flax.
 - [React Native](https://github.com/software-mansion/react-native-executorch/tree/main/apps/llm) — Run on-device Gemma models within React Native using ExecuTorch.
+- [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
+- [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
+
 
 ### Hosted
 
-- [Vertex AI](https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemma4) — Fully managed enterprise AI platform on Google Cloud.
+- [Gemini Enterprise Agent Platform (Formerly Vertex AI)](https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemma4) — Fully managed enterprise AI platform on Google Cloud.
 - [OpenRouter](https://openrouter.ai/google/gemma-4-31b-it) — Unified API routing to multiple AI model providers.
-- [Cerebras](https://www.cerebras.ai/blog/gemma-4-on-cerebras-the-fastest-inference-is-now-multimodal) — High-speed AI inference and training platform.
+- [Cerebras](https://inference-docs.cerebras.ai/models/gemma-4-31b) — High-speed Gemma 4 inference on Cerebras.
 - [NVIDIA](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) — Optimized TensorRT-LLM and NVFP4 checkpoints.
 - [AMD](https://www.amd.com/en/developer/resources/technical-articles/2026/day-0-support-for-gemma-4-on-amd-processors-and-gpus.html) — Support for AMD ROCm GPUs and processors.
 - [AI Studio](https://aistudio.google.com/app/prompts/new_chat?model=gemma-4-31b-it) — Web-based prototyping and development environment.
 - [Cloud Run](https://docs.cloud.google.com/run/docs/run-gemma-on-cloud-run) — Deploy containerized Gemma services with autoscaling GPUs.
 - [LiveKit](https://livekit.com/products/inference/gemma-4) — Real-time multimodal voice and video inference infrastructure.
 - [Together AI](https://www.together.ai/models/gemma-4-31b) — Cloud platform for running and fine-tuning open source models.
+- [Modal](https://modal.com/docs/launch/gemma-4) — Run and deploy Gemma 4 on the Modal platform.
+- [Fireworks](https://fireworks.ai/models/fireworks/gemma-4-31b-it) — Run and deploy Gemma 4 on the Fireworks.AI platform.
+- [BaseTen](https://www.baseten.co/library/publisher/gemma/) — Run and deploy Gemma 4 on the BaseTen platform.
+- [Runpod](https://docs.runpod.io/tutorials/serverless/run-gemma-7b) — Experiment, train, fine-tune, and deploy Gemma.
+- [Cloudflare](https://developers.cloudflare.com/workers-ai/models/gemma-4-26b-a4b-it/)  — Run Gemma 4 on the Workers AI LLM Playground.
 
 ## Fine-Tune
 
 - [Fine-Tune Gemma](https://ai.google.dev/gemma/docs/tune) — Official framework guide covering Keras, JAX, Hugging Face, Unsloth, Axolotl, and Google Cloud.
-- [Gemma Cookbook: Training](https://github.com/google-gemma/cookbook/tree/main/Gemma) — Official fine-tuning notebooks and training recipes.
+- [Gemma Cookbook: Training](https://github.com/google-gemma/cookbook/tree/main/docs/core) — Official fine-tuning notebooks and training recipes.
 - [Tunix](https://github.com/google/tunix) — JAX-native library for post-training generative models.
 - [Unsloth Gemma 4 fine-tuning guide](https://unsloth.ai/docs/models/gemma-4/train) — Train Gemma 4 E2B, E4B, 12B, 26B A4B and 31B with Unsloth.
 - [Gemma Multimodal Tuner](https://github.com/mattmireles/gemma-tuner-multimodal) — Fine-tune Gemma 3n and Gemma 4 with text, images, and audio on Apple Silicon.
@@ -171,6 +180,7 @@
 ## Research and Evaluation
 
 - [Gemma 4 Technical Report](https://arxiv.org/abs/2607.02770) — The technical report covering Gemma 4 E2B, E4B, 12B, 26B A4B, and 31B.
+- [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) — The technical report covering DiffusionGemma.
 - [Artificial Analysis](https://artificialanalysis.ai/models/gemma-4-31b) — Intelligence, Performance & Price Analysis.
 - [ChessBench](https://x.com/googlegemma/status/2054283302090277123) — Chess LLM Benchmark Leaderboard.
 - [TERMS-Bench](https://x.com/ericavaneee/status/2055868536099381638) — A benchmark for LLM negotiation agents based on economic negotiation.
