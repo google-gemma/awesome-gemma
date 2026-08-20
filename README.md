@@ -49,7 +49,7 @@
 
 - [Gemma 4 Overview](https://ai.google.dev/gemma/docs/core) — An overview of the capabilities, architecture, and more of Gemma 4 models.
 - [Gemma 4 Model Card](https://ai.google.dev/gemma/docs/core/model_card_4) — Architecture, training, evaluation, safety, and usage details.
-- [Gemma 4 (Hugging Face)](https://huggingface.co/collections/google/gemma-4) — Gemma 4 checkpoints on Hugging Face.
+- [Gemma 4 (Hugging Face)](https://huggingface.co/collections/google/gemma-4) — Gemma 4 checkpoints (+ assistant models) on Hugging Face.
 - [Gemma 4 QAT](https://huggingface.co/collections/google/gemma-4-qat-q4-0) — Quantization-aware checkpoints for local and server inference.
 - [Gemma 4 Mobile QAT](https://huggingface.co/collections/google/gemma-4-qat-mobile) — Mobile-optimized checkpoints for the E2B and E4B models.
 - [Previous Gemma Model Cards](https://deepmind.google/models/model-cards/) — Model cards for Gemma 1–3 and earlier Gemma families.
