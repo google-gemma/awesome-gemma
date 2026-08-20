@@ -56,22 +56,22 @@
 
 ### Variants
 
-- [DiffusionGemma](https://ai.google.dev/gemma/docs/diffusiongemma/model_card) — Experimental discrete-diffusion text generation based on Gemma 4.
-- [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma/model_card) — Compact embedding model designed for retrieval and on-device use.
-- [FunctionGemma](https://ai.google.dev/gemma/docs/functiongemma/model_card) — Foundation for building specialized function-calling models.
-- [MedGemma](https://deepmind.google/models/gemma/medgemma/) — Models optimized for medical text and image comprehension.
-- [PaliGemma 2](https://ai.google.dev/gemma/docs/paligemma/model-card-2) — Vision-language models for detailed image understanding tasks.
-- [ShieldGemma 2](https://ai.google.dev/gemma/docs/shieldgemma/model_card_2) — Image-safety classifier built on Gemma 3.
+- [DiffusionGemma](https://huggingface.co/collections/google/diffusiongemma) — Experimental discrete-diffusion text generation based on Gemma 4.
+- [EmbeddingGemma](https://huggingface.co/collections/google/embeddinggemma) — Compact embedding model designed for retrieval and on-device use.
+- [FunctionGemma](https://huggingface.co/collections/google/functiongemma) — Foundation for building specialized function-calling models.
+- [MedGemma](https://huggingface.co/collections/google/medgemma-release) — Models optimized for medical text and image comprehension.
+- [PaliGemma 2](https://huggingface.co/collections/google/paligemma-2-release) — Vision-language models for detailed image understanding tasks.
+- [ShieldGemma 2](https://huggingface.co/collections/google/shieldgemma) — Image-safety classifier built on Gemma 3.
 - [T5Gemma 2](https://huggingface.co/collections/google/t5gemma-2) — Encoder-decoder models for contextual understanding and generation.
-- [DolphinGemma](https://deepmind.google/models/gemma/dolphingemma/) — Uses dolphin audio to help scientists study how dolphins communicate.
 - [TranslateGemma](https://huggingface.co/collections/google/translategemma) — Translation models covering 55 languages.
 - [TxGemma](https://huggingface.co/collections/google/txgemma-release) — Models for therapeutic-development research.
-- [VaultGemma](https://deepmind.google/models/gemma/vaultgemma/) — Language model trained with differential privacy.
+- [VaultGemma](https://huggingface.co/google/vaultgemma-1b) — Language model trained with differential privacy.
 - [DataGemma](https://huggingface.co/collections/google/datagemma-release) — Models and recipes for grounding responses with Data Commons.
 - [RecurrentGemma](https://huggingface.co/collections/google/recurrentgemma-release) — Open models based on the recurrent Griffin architecture.
-- [Gemma Scope 2](https://ai.google.dev/gemma/docs/gemma_scope) — Open sparse autoencoders and interpretability tooling for studying Gemma 3.
-- [Gemma-APS](https://deepmind.google/models/gemma/gemma-aps/) — Abstractive proposition segmentation for decomposing text into meaningful claims.
+- [Gemma Scope 2](https://huggingface.co/collections/google/gemma-scope-2) — Open sparse autoencoders and interpretability tooling for studying Gemma 3.
+- [Gemma-APS](https://huggingface.co/collections/google/gemma-aps-release) — Abstractive proposition segmentation for decomposing text into meaningful claims.
 - [Cell2Sentence-Scale](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) — A Gemma 2 27B model fine-tuned for single-cell biology.
+- [DolphinGemma](https://deepmind.google/models/gemma/dolphingemma/) — Uses dolphin audio to help scientists study how dolphins communicate.
 
 ## Inference
 
