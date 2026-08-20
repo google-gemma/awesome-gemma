@@ -106,6 +106,8 @@
 - [Modal](https://modal.com/docs/launch/gemma-4) — Run and deploy Gemma 4 on the Modal platform.
 - [Fireworks](https://fireworks.ai/models/fireworks/gemma-4-31b-it) — Run and deploy Gemma 4 on the Fireworks.AI platform.
 - [BaseTen](https://www.baseten.co/library/publisher/gemma/) — Run and deploy Gemma 4 on the BaseTen platform.
+- [Runpod](https://docs.runpod.io/tutorials/serverless/run-gemma-7b) — Experiment, train, fine-tune, and deploy Gemma.
+- [Cloudflare](https://developers.cloudflare.com/workers-ai/models/gemma-4-26b-a4b-it/)  — Run Gemma 4 on the Workers AI LLM Playground.
 
 ## Fine-Tune
 
