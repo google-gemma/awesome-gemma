@@ -152,6 +152,7 @@
 - [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge/hackathon-winners) — The winners of the MedGemma hackathon to build human-centered AI applications with MedGemma.
 - [Gemma-Translator](https://github.com/google-gemma/gemma-translator) — A fully offline device powered by Gemma 4 E2B built with Google Antigravity.
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
+- [Needle](https://github.com/aitrailblazer/needle-arm64-mobile-ai) — Offline Gemma 4 E2B micro-router for bounded knowledge tasks on Arm64 iPhones, with host-validated native execution and local audit receipts.
 
 ## Gemma 4 Good Challenge
 
