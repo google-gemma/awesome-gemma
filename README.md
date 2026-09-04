@@ -90,6 +90,7 @@
 - [React Native](https://github.com/software-mansion/react-native-executorch/tree/main/apps/llm) — Run on-device Gemma models within React Native using ExecuTorch.
 - [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
 - [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
+- [Apple Core AI](https://huggingface.co/collections/mlboydaisuke/gemma-4-for-apple-core-ai-6a9b24ba16891680acaaba21) — Community Gemma 4 bundles (E2B, E4B, 12B, 31B) for Apple's on-device Core AI framework, each with recipe and measured speed.
 
 
 ### Hosted
