@@ -171,6 +171,7 @@
 - [AI Conceptualizer](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1779074198441) — 3D visualizations for mechanistic interpretability and "concept spectroscopy".
 - [Acuífero·Vigía](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/acuifero4vigia) — Hybrid edge-and-citizen flood early warning for Argentina's Litoral, where every minute of warning is a life.
 - [ResQ](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/resq) — Offline Multilingual Disaster Response Coach on Gemma 4 E2B.
+- [OptiLearn](https://kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1776974818404) — A locally-run, adaptive learning system for refugee and underserved classrooms, powered by Gemma 4 models.
 
 ## Gemma in Space
 
