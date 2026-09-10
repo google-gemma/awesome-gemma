@@ -132,6 +132,7 @@
 - [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
 - [Fine-tuning Gemma 4 12B on your own data](https://x.com/akshay_pachaar/status/2063610194618396728)
 - [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop)
+- [Run Gemma 4 locally with Claude Code](https://www.youtube.com/watch?v=mpWWQ45jCe8) - Video tutorial on using locally running Gemma 4 models with Claude Code.
 
 ## Demos and Applications
 
