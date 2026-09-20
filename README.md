@@ -117,6 +117,7 @@
 - [Unsloth Gemma 4 fine-tuning guide](https://unsloth.ai/docs/models/gemma-4/train) — Train Gemma 4 E2B, E4B, 12B, 26B A4B and 31B with Unsloth.
 - [Gemma Multimodal Tuner](https://github.com/mattmireles/gemma-tuner-multimodal) — Fine-tune Gemma 3n and Gemma 4 with text, images, and audio on Apple Silicon.
 - [MLX Tune](https://github.com/ARahim3/mlx-tune#gemma-4-audio-fine-tuning) — MLX-native SFT, preference tuning, and multimodal fine-tuning with Gemma 4 support.
+- [Fine-tune Gemma 4 MoE with Halo](https://github.com/whitecircle/halo/blob/main/human-docs/cookbooks/halo-gemma4-moe-cookbook.md) — Train Gemma 4 26B-A4B with SFT, expert parallelism, LoRA, or environmental GRPO.
 
 ## Tutorials
 
