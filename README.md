@@ -153,6 +153,7 @@
 - [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge/hackathon-winners) — The winners of the MedGemma hackathon to build human-centered AI applications with MedGemma.
 - [Gemma-Translator](https://github.com/google-gemma/gemma-translator) — A fully offline device powered by Gemma 4 E2B built with Google Antigravity.
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
+- [Alpino](https://huggingface.co/spaces/cyberandy/Alpino-playground) — A Gemma 4 E4B LoRA that operates the alpina.travel website: it reads a live knowledge graph, applies SHACL governance, and proposes each site change as a draft pull request for human review.
 
 ## Gemma 4 Good Challenge
 
