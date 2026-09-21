@@ -90,6 +90,7 @@
 - [React Native](https://github.com/software-mansion/react-native-executorch/tree/main/apps/llm) — Run on-device Gemma models within React Native using ExecuTorch.
 - [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
 - [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
+- [Apple Core AI](https://huggingface.co/collections/mlboydaisuke/gemma-4-for-apple-core-ai-6a9b24ba16891680acaaba21) — Community Gemma 4 bundles (E2B, E4B, 12B, 31B) for Apple's on-device Core AI framework, each with recipe and measured speed.
 
 
 ### Hosted
@@ -133,6 +134,7 @@
 - [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
 - [Fine-tuning Gemma 4 12B on your own data](https://x.com/akshay_pachaar/status/2063610194618396728)
 - [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop)
+- [Run Gemma 4 locally with Claude Code](https://www.youtube.com/watch?v=mpWWQ45jCe8) - Video tutorial on using locally running Gemma 4 models with Claude Code.
 
 ## Demos and Applications
 
@@ -153,6 +155,8 @@
 - [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge/hackathon-winners) — The winners of the MedGemma hackathon to build human-centered AI applications with MedGemma.
 - [Gemma-Translator](https://github.com/google-gemma/gemma-translator) — A fully offline device powered by Gemma 4 E2B built with Google Antigravity.
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Windows desktop app that uses Gemma through Ollama to pick and title vertical clips from long streams, with all processing on-device.
+- [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
 
 ## Gemma 4 Good Challenge
 
@@ -172,6 +176,7 @@
 - [AI Conceptualizer](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1779074198441) — 3D visualizations for mechanistic interpretability and "concept spectroscopy".
 - [Acuífero·Vigía](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/acuifero4vigia) — Hybrid edge-and-citizen flood early warning for Argentina's Litoral, where every minute of warning is a life.
 - [ResQ](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/resq) — Offline Multilingual Disaster Response Coach on Gemma 4 E2B.
+- [OptiLearn](https://kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1776974818404) — A locally-run, adaptive learning system for refugee and underserved classrooms, powered by Gemma 4 models.
 
 ## Gemma in Space
 
