@@ -157,6 +157,7 @@
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Windows desktop app that uses Gemma through Ollama to pick and title vertical clips from long streams, with all processing on-device.
 - [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
+- [lora-kernel](https://github.com/EvolvingAgentsLabs/lora-kernel) - Per-role LoRA experts on Gemma 4 E4B that navigate a markdown knowledge base instead of memorising it, with a Colab notebook that edits a note and shows the answer change without retraining.
 
 ## Gemma 4 Good Challenge
 
