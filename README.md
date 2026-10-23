@@ -157,6 +157,7 @@
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Windows desktop app that uses Gemma through Ollama to pick and title vertical clips from long streams, with all processing on-device.
 - [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
+- [CraveLens](https://github.com/NishithP2004/CraveLens) — Chrome extension that turns food seen in videos or images into a ready-to-order Swiggy cart, with Gemma 4 E2B/E4B running the agent's tool calls on-device through LiteRT-LM on WebGPU.
 
 ## Gemma 4 Good Challenge
 
