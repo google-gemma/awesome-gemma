@@ -191,6 +191,8 @@
 - [ChessBench](https://x.com/googlegemma/status/2054283302090277123) — Chess LLM Benchmark Leaderboard.
 - [TERMS-Bench](https://x.com/ericavaneee/status/2055868536099381638) — A benchmark for LLM negotiation agents based on economic negotiation.
 
+- [OPTIC](https://arxiv.org/abs/2610.31309) - Cross-layer latent vector quantization for compressing per-layer embeddings in Gemma 4 E2B and E4B.
+
 ## Footnotes
 
 This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
