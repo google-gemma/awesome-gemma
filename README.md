@@ -157,6 +157,7 @@
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Windows desktop app that uses Gemma through Ollama to pick and title vertical clips from long streams, with all processing on-device.
 - [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
+- [HNTurboVec](https://github.com/davidmonterocrespo24/HNTurboVec) - Search all 49.3M Hacker News items in a 5.34 GB file on a laptop CPU, with EmbeddingGemma 2 vectors stored as 256-bit codes and reranked on the CPU.
 
 ## Gemma 4 Good Challenge
 
