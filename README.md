@@ -91,6 +91,7 @@
 - [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
 - [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
 - [Apple Core AI](https://huggingface.co/collections/mlboydaisuke/gemma-4-for-apple-core-ai-6a9b24ba16891680acaaba21) — Community Gemma 4 bundles (E2B, E4B, 12B, 31B) for Apple's on-device Core AI framework, each with recipe and measured speed.
+- [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) - Swift and Metal runtime for Gemma 4 26B-A4B on Apple Silicon, streaming experts from SSD to support Macs with 8 GB of RAM.
 
 
 ### Hosted
