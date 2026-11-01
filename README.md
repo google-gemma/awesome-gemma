@@ -160,6 +160,7 @@
 - [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
 - [HNTurboVec](https://github.com/davidmonterocrespo24/HNTurboVec) - Search all 49.3M Hacker News items in a 5.34 GB file on a laptop CPU, with EmbeddingGemma 2 vectors stored as 256-bit codes and reranked on the CPU.
 - [LokalBot](https://github.com/stevyhacker/LokalBot) — Open-source macOS app for on-device meeting notes and work recall; Gemma 4 E2B powers inline autocomplete in any app and EmbeddingGemma 2 powers semantic search, both running locally through llama.cpp.
+- [CraveLens](https://github.com/NishithP2004/CraveLens) — Chrome extension that turns food seen in videos or images into a ready-to-order Swiggy cart, with Gemma 4 E2B/E4B running the agent's tool calls on-device through LiteRT-LM on WebGPU.
 
 ## Gemma 4 Good Challenge
 
