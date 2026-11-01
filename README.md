@@ -91,6 +91,7 @@
 - [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
 - [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
 - [Apple Core AI](https://huggingface.co/collections/mlboydaisuke/gemma-4-for-apple-core-ai-6a9b24ba16891680acaaba21) — Community Gemma 4 bundles (E2B, E4B, 12B, 31B) for Apple's on-device Core AI framework, each with recipe and measured speed.
+- [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) - Swift and Metal runtime for Gemma 4 26B-A4B on Apple Silicon, streaming experts from SSD to support Macs with 8 GB of RAM.
 
 
 ### Hosted
@@ -157,6 +158,8 @@
 - [Real-Time Voice AI with Gemma 4](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Open-source cascaded voice stack using Gemma 4 for low-latency reasoning.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) — Windows desktop app that uses Gemma through Ollama to pick and title vertical clips from long streams, with all processing on-device.
 - [WisprGemma](https://github.com/Arindam200/WisprGemma) - Web app and Chrome extension for multilingual voice dictation using Gemma 4 E2B locally with WebGPU.
+- [HNTurboVec](https://github.com/davidmonterocrespo24/HNTurboVec) - Search all 49.3M Hacker News items in a 5.34 GB file on a laptop CPU, with EmbeddingGemma 2 vectors stored as 256-bit codes and reranked on the CPU.
+- [LokalBot](https://github.com/stevyhacker/LokalBot) — Open-source macOS app for on-device meeting notes and work recall; Gemma 4 E2B powers inline autocomplete in any app and EmbeddingGemma 2 powers semantic search, both running locally through llama.cpp.
 - [CraveLens](https://github.com/NishithP2004/CraveLens) — Chrome extension that turns food seen in videos or images into a ready-to-order Swiggy cart, with Gemma 4 E2B/E4B running the agent's tool calls on-device through LiteRT-LM on WebGPU.
 
 ## Gemma 4 Good Challenge
@@ -177,6 +180,13 @@
 - [AI Conceptualizer](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1779074198441) — 3D visualizations for mechanistic interpretability and "concept spectroscopy".
 - [Acuífero·Vigía](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/acuifero4vigia) — Hybrid edge-and-citizen flood early warning for Argentina's Litoral, where every minute of warning is a life.
 - [ResQ](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/resq) — Offline Multilingual Disaster Response Coach on Gemma 4 E2B.
+- [GEM-4](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778618527713) — Wearable robotic assistance for daily living using Gemma 4.
+- [PenguinAgent](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/PenguinAgent) — Offline penguin behavior analysis and field reports from video.
+- [Project Rosie](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1777596440505) — Personalized neoantigen mRNA vaccine design support for veterinary oncology.
+- [Gilbeot](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/gilbeot) — On-device walking guidance for older adults using Gemma 4 and LiteRT-LM.
+- [PathOS](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/pathos-getalife) — Offline histopathology screening and structured reporting with Gemma 4.
+- [MindBridge](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1779141852948) — Offline Hindi mental health screening for community health workers.
+- [KawanIsyarat](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/kawanisyarat-offline-gemma-4-for-bisindo) — Offline Android communication support for BISINDO users using Gemma 4 and Cactus.
 - [OptiLearn](https://kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1776974818404) — A locally-run, adaptive learning system for refugee and underserved classrooms, powered by Gemma 4 models.
 
 ## Gemma in Space
