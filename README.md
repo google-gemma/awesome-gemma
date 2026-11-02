@@ -192,6 +192,7 @@
 
 - [Starcloud-1](https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html) — Starcloud deployed and ran Gemma in orbit aboard an H100 GPU.
 - [NASA](https://spectrum.ieee.org/nasa-ai-satellite-image-analysis) — NASA runs Gemma in orbit to analyze satellite imagery and compress visual data into text for rapid, low-bandwidth disaster response.
+- [Project Suncatcher](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/) — Gemma 4 in low Earth orbit aboard a data-center-class TPU on a prototype satellite.
 
 ## Research and Evaluation
 
