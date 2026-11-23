@@ -136,6 +136,7 @@
 - [Fine-tuning Gemma 4 12B on your own data](https://x.com/akshay_pachaar/status/2063610194618396728)
 - [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop)
 - [Run Gemma 4 locally with Claude Code](https://www.youtube.com/watch?v=mpWWQ45jCe8) - Video tutorial on using locally running Gemma 4 models with Claude Code.
+- [How to run Gemma 4 on a Mac: RAM, speed and where it falls short](https://outlier.host/how-to/run-gemma-4-on-mac/?ref=awesome-gemma) - Measured Gemma 4 26B-A4B on an M1 Ultra Mac: memory per Mac size, tokens per second and coding results.
 
 ## Demos and Applications
 
