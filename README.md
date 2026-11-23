@@ -161,6 +161,8 @@
 - [HNTurboVec](https://github.com/davidmonterocrespo24/HNTurboVec) - Search all 49.3M Hacker News items in a 5.34 GB file on a laptop CPU, with EmbeddingGemma 2 vectors stored as 256-bit codes and reranked on the CPU.
 - [LokalBot](https://github.com/stevyhacker/LokalBot) — Open-source macOS app for on-device meeting notes and work recall; Gemma 4 E2B powers inline autocomplete in any app and EmbeddingGemma 2 powers semantic search, both running locally through llama.cpp.
 - [Live Translator](https://github.com/umutcetinkaya/live-translator) - macOS menu bar app that shows live translated subtitles for any system audio, using TranslateGemma on-device through Apple MLX.
+- [Retriever](https://github.com/dhruv2295/Retriever) - Open-source Android and iOS app that searches photos, screenshots, documents and video moments on the device, using EmbeddingGemma 2 through LiteRT-LM.
+- [Purr](https://github.com/iamarunbrahma/purr) - Open-source macOS app for dictation and meeting notes. Gemma 4 E2B runs locally through llama.cpp to summarize meetings and to rewrite selected text from a spoken instruction.
 
 ## Gemma 4 Good Challenge
 
