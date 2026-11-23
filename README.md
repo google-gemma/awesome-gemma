@@ -36,8 +36,8 @@
 
 ## Start Here
 
-- [Gemma Documentation](https://ai.google.dev/gemma/docs) — Official documentation for selecting, running, tuning, and deploying Gemma models.
-- [Get Started with Gemma](https://ai.google.dev/gemma/docs/get_started) — Get started running inference with the multimodal Gemma 4 models.
+- [Gemma Documentation](https://gemma.ai/) — Official documentation for selecting, running, tuning, and deploying Gemma models.
+- [Get Started with Gemma](https://gemma.ai/get-started/) — Get started running inference with the multimodal Gemma 4 models.
 - [Gemma Cookbook](https://github.com/google-gemma/cookbook) — Maintained notebooks, examples, workshops, and end-to-end applications.
 - [Gemma Skills](https://github.com/google-gemma/gemma-skills) — Reusable Agent Skills for selecting, running, and training Gemma models.
 - [Gemma Events](https://luma.com/gemma-events) — Overview of upcoming Gemma events.
@@ -47,8 +47,8 @@
 
 ### Core Models
 
-- [Gemma 4 Overview](https://ai.google.dev/gemma/docs/core) — An overview of the capabilities, architecture, and more of Gemma 4 models.
-- [Gemma 4 Model Card](https://ai.google.dev/gemma/docs/core/model_card_4) — Architecture, training, evaluation, safety, and usage details.
+- [Gemma 4 Overview](https://gemma.ai/models/gemma-4/) — An overview of the capabilities, architecture, and more of Gemma 4 models.
+- [Gemma 4 Model Card](https://gemma.ai/models/gemma-4/model-card/) — Architecture, training, evaluation, safety, and usage details.
 - [Gemma 4 (Hugging Face)](https://huggingface.co/collections/google/gemma-4) — Gemma 4 checkpoints (+ assistant models) on Hugging Face.
 - [Gemma 4 QAT](https://huggingface.co/collections/google/gemma-4-qat-q4-0) — Quantization-aware checkpoints for local and server inference.
 - [Gemma 4 Mobile QAT](https://huggingface.co/collections/google/gemma-4-qat-mobile) — Mobile-optimized checkpoints for the E2B and E4B models.
@@ -113,7 +113,7 @@
 
 ## Fine-Tune
 
-- [Fine-Tune Gemma](https://ai.google.dev/gemma/docs/tune) — Official framework guide covering Keras, JAX, Hugging Face, Unsloth, Axolotl, and Google Cloud.
+- [Fine-Tune Gemma](https://gemma.ai/tuning/) — Official framework guide covering Keras, JAX, Hugging Face, Unsloth, Axolotl, and Google Cloud.
 - [Gemma Cookbook: Training](https://github.com/google-gemma/cookbook/tree/main/docs/core) — Official fine-tuning notebooks and training recipes.
 - [Tunix](https://github.com/google/tunix) — JAX-native library for post-training generative models.
 - [Unsloth Gemma 4 fine-tuning guide](https://unsloth.ai/docs/models/gemma-4/train) — Train Gemma 4 E2B, E4B, 12B, 26B A4B and 31B with Unsloth.
