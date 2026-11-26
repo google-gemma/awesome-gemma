@@ -163,6 +163,7 @@
 - [Live Translator](https://github.com/umutcetinkaya/live-translator) - macOS menu bar app that shows live translated subtitles for any system audio, using TranslateGemma on-device through Apple MLX.
 - [Retriever](https://github.com/dhruv2295/Retriever) - Open-source Android and iOS app that searches photos, screenshots, documents and video moments on the device, using EmbeddingGemma 2 through LiteRT-LM.
 - [Purr](https://github.com/iamarunbrahma/purr) - Open-source macOS app for dictation and meeting notes. Gemma 4 E2B runs locally through llama.cpp to summarize meetings and to rewrite selected text from a spoken instruction.
+- [Madosuite Summarize PDF](https://madosuite.com/summarize-pdf) - Browser PDF summarizer that can rewrite its extractive summary with Gemma 4 E2B (QAT q4_0 GGUF), run on WebGPU by wllama (llama.cpp compiled to wasm); a one-time 3.2 GB download, computers only, and the PDF is not uploaded.
 
 ## Gemma 4 Good Challenge
 
