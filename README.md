@@ -203,6 +203,7 @@
 - [Artificial Analysis](https://artificialanalysis.ai/models/gemma-4-31b) — Intelligence, Performance & Price Analysis.
 - [ChessBench](https://x.com/googlegemma/status/2054283302090277123) — Chess LLM Benchmark Leaderboard.
 - [TERMS-Bench](https://x.com/ericavaneee/status/2055868536099381638) — A benchmark for LLM negotiation agents based on economic negotiation.
+- [LibreDB Studio: Gemma 4 in agent mode](https://github.com/libredb/libredb-studio/blob/main/docs/llms/gemma/gemma4.md) - Gemma 4 E4B, 12B, 26B and 31B measured driving a database agent through six tasks, five consecutive passes each, with median times per task.
 
 ## Footnotes
 
